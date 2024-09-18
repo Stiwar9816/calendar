@@ -6,7 +6,7 @@ export const Navbar = () => {
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark px-2">
             <div className="container-fluid">
                 <span className="navbar-brand">
-                    <img src="/src/assets/schedule.png" alt="Logo-calendar" width="30" height="30" className="d-inline-block align-text-top mr-1" />
+                    <img src="/assets/schedule.png" alt="Logo-calendar" width="30" height="30" className="d-inline-block align-text-top mr-1" />
                     Calendar App - <span>{user.name}</span>
                 </span>
 
